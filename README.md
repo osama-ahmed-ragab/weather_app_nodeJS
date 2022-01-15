@@ -19,4 +19,4 @@ To get the project up and running I followed these steps:
 
 
 ### Result 
-![About Page](https://github.com/tem-nik/Project-Previews/blob/master/Weather-Journal-App-About.png)
+![About Page](https://ibb.co/6NSGMvP)
