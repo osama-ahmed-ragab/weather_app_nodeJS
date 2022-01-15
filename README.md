@@ -19,4 +19,4 @@ To get the project up and running I followed these steps:
 
 
 ### Result 
-![About Page](https://ibb.co/6NSGMvP)
+![About Page](<a href="https://ibb.co/6NSGMvP"><img src="https://i.ibb.co/t36nGZs/Capture.png" alt="Capture" border="0"></a>)
